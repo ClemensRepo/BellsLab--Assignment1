@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+  }
+  
+  #ndn-logo {
+    width:5rem;
+    height:3rem;
+  }
+
+  footer {
+    width: 100vw;
+    height: auto;
+    
+  }
+  
+  .sm-icon {
+    width: 3rem;
+    height: 3rem;
+    border: none;
+  }
+  
+  #operating-hours {
+    display: block;
+    margin: auto;
+  }
+  
+  
